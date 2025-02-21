@@ -19,14 +19,8 @@ This tutorial outlines the post-install configuration of the open-source help de
 
 <h2>Post-Install Configuration Objectives</h2>
 
-- Configure Roles
-- Configure Departments
-- Configure Teams
-- Allow anyone to create tickets
-- Configure Agents
-- Configure Users
-- Configure SLA
-- Configure Help Topics
+- Configure Roles, Departments, Teams, Agents, and Users
+- Configure SLA and Help Topics
 
 <h2>Configuration Steps</h2>
 
