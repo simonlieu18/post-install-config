@@ -40,7 +40,7 @@ Under the "Agents" tab you can configure your agents, teams, roles, and departme
 ![image](https://github.com/user-attachments/assets/f9ab26c8-00fb-462c-b16e-706585279682)
 
 <p>
-Make sure "Require registration and login to create tickets" is checked
+Make sure "Require registration and login to create tickets" is checked.
 </p>
 <br />
 
@@ -48,5 +48,13 @@ Make sure "Require registration and login to create tickets" is checked
 
 <p>
 Switch to Agent Panel and go under "Users" tab to add in new users.
+</p>
+<br />
+
+![image](https://github.com/user-attachments/assets/f6a5ef0d-dc23-4cfc-b416-58086a88dc1d)
+
+
+<p>
+Switch back to Admin Panel and go under the "manage" tab to configure SLA and Help Topics.
 </p>
 <br />
