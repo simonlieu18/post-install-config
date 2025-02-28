@@ -46,6 +46,7 @@ Switch to Agent Panel and go under "Users" tab to add in new users.
 <br />
 
 ![image](https://github.com/user-attachments/assets/f6a5ef0d-dc23-4cfc-b416-58086a88dc1d)
+![image](https://github.com/user-attachments/assets/2d269d32-f866-4dae-928f-7bdeaf001396)
 
 
 <p>
